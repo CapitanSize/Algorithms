@@ -22,6 +22,7 @@ public class Arrays {
             }
         }
         return numSet.iterator().next();*/
+        return 1;
     }
 
     public static int[] intersectionOfTwoArrays(int[] nums1, int[] nums2) {
